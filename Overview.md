@@ -10,5 +10,5 @@ Cybersecurity is becoming more important due to increased reliance on computer s
 
 [Next topic: Threats](Threats.md)
 
-[Back to Home Page](README.md)
+[Back to Table of Contents](README.md)
 
