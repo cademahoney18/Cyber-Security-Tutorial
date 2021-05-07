@@ -19,8 +19,8 @@ Threats to cybersecurity can come from a wide range of potential hosts. It could
 
 These attacks can cause people to lose jobs, their personal information, and their livelihood. It is of upmost importance that cybersecurity should be one of the top investments for companies and citizens to make now and for the foreseeable future.
 
+[Next Topic: What you can do to protect yourself](Protection.md)
+
 [Back to Overview](Overview.md)
 
 [Back to Table of Contents](README.md)
-
-[Next Topic: What you can do to protect yourself](Protection.md)
