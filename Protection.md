@@ -19,7 +19,7 @@ In order to prevent the various cyber threats from comprising someones or a corp
 5. Educate employees about cybersecurity threats and what to look for.
 6. Regularly check to make sure data is secure and encrypted.
 
-There are many more things you could do to help protect yourself from cyber threats, however you can't go wrong using any of the methods listed above. However, in conclusion, I hope this tutorial has given you the adequate information to help protect yourself and others personal information.
+There are many more things you could do to help protect yourself from cyber threats, but you absolutely can't go wrong using any of the methods listed above. In conclusion, I hope this tutorial has given you the adequate information to help protect yourself and others personal information from being compromised and manipulated.
 
 [Back to Threats](Threats.md)
 
